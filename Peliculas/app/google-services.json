@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483928125646",
+    "project_id": "peliculas-31ab6",
+    "storage_bucket": "peliculas-31ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483928125646:android:1b39022cb2bcd3d155e09f",
+        "android_client_info": {
+          "package_name": "alameda.daniel.peliculas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3XsMo9w6m0HfWisXR-KzkFD-yWvgAKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
