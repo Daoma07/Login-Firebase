@@ -9,16 +9,16 @@
     tools:context=".LoginActivity">
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress2"
+        android:id="@+id/et_correo_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Correo Electronico"
-        android:textAlignment="center"
-        android:inputType="textEmailAddress" />
+        android:inputType="textEmailAddress"
+        android:textAlignment="center" />
 
     <EditText
-        android:id="@+id/editTextTextPassword3"
+        android:id="@+id/et_contra_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
